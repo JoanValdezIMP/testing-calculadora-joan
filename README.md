@@ -18,7 +18,7 @@ Per validar el projecte, pots utilitzar les següents comandes de Maven a la ter
 
 **Evidència d'execució (`mvn test`):**
 Captura de l'execució dels tests de Calculator: 
-![Captura test correcte](./img/tests-successful.png)
+![Captura test correcte](./img/tests-succesfull.png)
 
 ---------------------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ S'ha afegit el cas `"50.0, true, 50.0"` al test parametritzat per cobrir la situ
 Sí. S'ha assolit un 100% en línies i branques, però la suficiència recau en el fet que els tests s'han dissenyat tenint en compte valors límit (0.0, 99.99, 100.0) i casos d'error, assegurant que validem les regles de negoci i no només forçant el pas per les línies de codi.
 
 **Captura d'informe JaCoCo:** 
-![Captura cobertura JaCoCo](./img/cobertura-jacoco.png)
+![Captura cobertura JaCoCo](./img/covertura-JoCoCo.png)
 
 ---------------------------------------------------------------------------------------
 
@@ -74,10 +74,10 @@ Seguint l'objectiu de la Part D, he millorat la suite de proves per resoldre les
 **Evidències de l'informe PIT:**
 
 Captura d'informe PIT **Abans** de les millores: 
-![Captura PIT Abans](./img/pit-unsuccessful.png)
+![Captura PIT Abans](./img/Pit-unsuccesfull.png)
 
 Captura d'informe PIT **Després** de les millores: 
-![Captura PIT Despres](./img/pit-successful.png)
+![Captura PIT Despres](./img/Pit-succesfull.png)
 
 ---------------------------------------------------------------------------------------
 
