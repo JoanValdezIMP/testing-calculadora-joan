@@ -101,8 +101,8 @@ El test parametritzat de `DescompteService`. Aporta molt valor perquè permet va
 
 
 
---// Anunciat //--
 
+# --Inici de l'anunciat--
 # Activitat 2 - Unit Testing, Cobertura, Mutation Testing i Mockito
 
 Aquest projecte serveix com a plantilla base (*starter*) per a la pràctica de proves unitàries a Java. L'objectiu principal és aprendre i aplicar les tècniques fonamentals de verificació de programari: disseny de casos de prova amb **JUnit 5**, mesura de cobertura de codi amb **JaCoCo**, avaluació de la qualitat dels tests mitjançant **Mutation Testing (PIT)** i aïllament de dependències amb **Mockito**.
